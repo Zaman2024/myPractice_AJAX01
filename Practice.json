@@ -1,0 +1,10 @@
+{
+    "employees":[
+        {"name":"Zaman","age":31,"city":"Guwahati", "gaon":"Urban"},
+        {"name":"Sadik","age":45,"city":"Nagaon", "gaon":"Rural"},
+        {"name":"Heena","age":15,"city":"Morigaon", "gaon":"Urban"},
+        {"name":"Ayan","age":13,"city":"Tezpur", "gaon":"Rural"},
+        {"name":"Najma","age":28,"city":"Gulaghat", "gaon":"Urban"},
+        {"name":"Sultana","age":22,"city":"Mayong", "gaon":"Rural"}
+    ]
+}
