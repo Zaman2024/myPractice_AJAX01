@@ -1,2 +1,2 @@
-﻿# myPractice-01
+﻿# myPractice
 # myPractice_AJAX_01
